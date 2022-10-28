@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GutierManu/GutierManu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,68 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# PORTFOLIO
+## Game Jam: Opera GX Game Jam
+### Internet Guardians
+
+[![Banner_Thumbnail](https://user-images.githubusercontent.com/89094000/198503898-d2ba4be1-6c76-4974-a6b6-f3bb8ee56d65.png)](https://gutier.itch.io/internet-guardians)
+
+Be a solo guardian or team up with a friend and protect the Internet together! In this shoot 'em up game you must protect the Internet from bugs that aim to corrupt it. Debug the cyberspace and recover Internet files to get an increased score and Internet medals!
+
+Made for the #OperaGXGameJam held in Game Jolt with “UFOs and the Internet” as the main theme. All assets were created by myself.
+
+    Engine: GameMaker Studio 2
+    Contribution: all
+    Original release: <a href="https://gamejolt.com/games/internetguardians/637967">Gamejolt</a>
+
+Play it here: https://gutier.itch.io/internet-guardians || https://gamejolt.com/games/internetguardians/637967
+
+--------------------------
+## XR (AR/VR)
+### AR Portal
+
+[![Watch the video](https://img.youtube.com/vi/CleX8_8_PDM/maxresdefault.jpg)](https://youtu.be/CleX8_8_PDM)
+
+A project done for learning purposes. The app allows you to use the camera to detect flat surfaces in the real world. Once these flat surfaces are detected, the user can instantiate a portal with 3 different environments available (for this project, house areas are featured).
+The portal works both ways, the user is able to enter the digital environment by the front or the back side, and equally exit by any of these sides. The user is also able to exit (destroy) the environment by tapping on the pertinent button, allowing them to place the AR Portal in another position.
+As an addition, Unity's localization tool has been used to add language support in English, Spanish and French.
+
+Public release is planned in the future.
+
+    Engine: Unity
+    Contribution: Programming, Design, UI, Translation
+
+### VR Rollercoaster
+
+[![Watch the video](https://user-images.githubusercontent.com/89094000/198506478-06c4411a-fa19-4091-aeb7-22f3573a5549.png)](https://www.linkedin.com/posts/realidad-virtual-honduras_proyecto-bcie-vr-activity-6986455961334902785-_EOO?utm_source=share&utm_medium=member_desktop)
+
+##### A VR experience done in collaboration with Realidad Virtual Honduras for the CABEI (Central American Bank for Economic Integration) -or BCIE (Banco Centroamericano de Integración Económica) in Spanish-. The experience features a rollercoaster with 6 stations, each representing a diorama of the projects done by the CABEI throughout each of the Central American countries, including relevant data on these projects.
+
+    Engine: Unity
+    Contribution: Blocking, Programming, Design
+
+--------------------------
+## Work in Progress
+### Untitled Owl Game
+
+[![Watch the video](https://img.youtube.com/vi/OS6xDnV0QVA/maxresdefault.jpg)](https://youtu.be/OS6xDnV0QVA)
+
+This game aims to be launched in PC and consoles. The game will feature a campaign mode and a versus mode. In the VS mode, players will have to make their opponents fall off of the stage. There will also be customization options for the characters, as shown here:
+
+[![Watch the video](https://img.youtube.com/vi/G3LQ4F9yeL0/maxresdefault.jpg)](https://youtu.be/G3LQ4F9yeL0)
+
+    Engine: Unity
+    Contribution: all
+
+--------------------------
+## Prototypes
+### Unity Junior Programmer Pathway
+
+[![unity-junior-programmer](https://user-images.githubusercontent.com/89094000/198504459-3e206eed-8f33-4704-a7c0-12c6902d9fa5.png)](https://learn.unity.com/pathway/junior-programmer)
+
+These projects were done for learning purposes. While the design and mechanics are simple, the aim is to understand the topics studied throughout the pathway.
+
+Unity profile: https://learn.unity.com/u/manugutier
+
+Certified badge: https://www.credly.com/badges/e29487e5-bd85-4305-8ca0-d99342828614/public_url
