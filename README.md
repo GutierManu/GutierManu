@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# PORTFOLIO
-## Game Jam: Opera GX Game Jam
-### Internet Guardians
+# <p align=center>PORTFOLIO
+#### <p align=center>You may click on the images to be redirected to the page or a demo video of each project
+--------------------------
+## <p align=center>Game Jam: Opera GX Game Jam
+### <p align=center>Internet Guardians
 
 [![Banner_Thumbnail](https://user-images.githubusercontent.com/89094000/198503898-d2ba4be1-6c76-4974-a6b6-f3bb8ee56d65.png)](https://gutier.itch.io/internet-guardians)
 
@@ -29,8 +31,8 @@ Made for the #OperaGXGameJam held in Game Jolt with “UFOs and the Internet” 
 Play it here: https://gutier.itch.io/internet-guardians || https://gamejolt.com/games/internetguardians/637967
 
 --------------------------
-## XR (AR/VR)
-### AR Portal
+## <p align=center>XR (AR/VR)
+### <p align=center>AR Portal
 
 [![Watch the video](https://img.youtube.com/vi/CleX8_8_PDM/maxresdefault.jpg)](https://youtu.be/CleX8_8_PDM)
 
@@ -43,18 +45,18 @@ Public release is planned in the future.
     Engine: Unity
     Contribution: Programming, Design, UI, Translation
 
-### VR Rollercoaster
+### <p align=center>VR Rollercoaster
 
 [![Watch the video](https://user-images.githubusercontent.com/89094000/198506478-06c4411a-fa19-4091-aeb7-22f3573a5549.png)](https://www.linkedin.com/posts/realidad-virtual-honduras_proyecto-bcie-vr-activity-6986455961334902785-_EOO?utm_source=share&utm_medium=member_desktop)
 
-##### A VR experience done in collaboration with Realidad Virtual Honduras for the CABEI (Central American Bank for Economic Integration) -or BCIE (Banco Centroamericano de Integración Económica) in Spanish-. The experience features a rollercoaster with 6 stations, each representing a diorama of the projects done by the CABEI throughout each of the Central American countries, including relevant data on these projects.
+A VR experience done in collaboration with Realidad Virtual Honduras for the CABEI (Central American Bank for Economic Integration) -or BCIE (Banco Centroamericano de Integración Económica) in Spanish-. The experience features a rollercoaster with 6 stations, each representing a diorama of the projects done by the CABEI throughout each of the Central American countries, including relevant data on these projects.
 
     Engine: Unity
     Contribution: Blocking, Programming, Design
 
 --------------------------
-## Work in Progress
-### Untitled Owl Game
+## <p align=center>Work in Progress
+### <p align=center>Untitled Owl Game
 
 [![Watch the video](https://img.youtube.com/vi/OS6xDnV0QVA/maxresdefault.jpg)](https://youtu.be/OS6xDnV0QVA)
 
@@ -66,8 +68,8 @@ This game aims to be launched in PC and consoles. The game will feature a campai
     Contribution: all
 
 --------------------------
-## Prototypes
-### Unity Junior Programmer Pathway
+## <p align=center>Prototypes
+### <p align=center>Unity Junior Programmer Pathway
 
 [![unity-junior-programmer](https://user-images.githubusercontent.com/89094000/198504459-3e206eed-8f33-4704-a7c0-12c6902d9fa5.png)](https://learn.unity.com/pathway/junior-programmer)
 
