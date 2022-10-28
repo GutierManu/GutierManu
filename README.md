@@ -25,7 +25,6 @@ Made for the #OperaGXGameJam held in Game Jolt with “UFOs and the Internet” 
 
     Engine: GameMaker Studio 2
     Contribution: all
-    Original release: <a href="https://gamejolt.com/games/internetguardians/637967">Gamejolt</a>
 
 Play it here: https://gutier.itch.io/internet-guardians || https://gamejolt.com/games/internetguardians/637967
 
