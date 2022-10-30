@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # <p align=center>PORTFOLIO
-#### <p align=center>You may click on the images to be redirected to the page or a demo video of each project
+#### <p align=center>You may click on the images to be redirected to the page or a demo video of each project.
 --------------------------
 ## <p align=center>Game Jam: Opera GX Game Jam
 ### <p align=center>Internet Guardians
@@ -26,6 +26,7 @@ Be a solo guardian or team up with a friend and protect the Internet together! I
 Made for the #OperaGXGameJam held in Game Jolt with “UFOs and the Internet” as the main theme. All assets were created by myself.
 
     Engine: GameMaker Studio 2
+    Development time and period: 2 weeks - August 2021
     Contribution: all
 
 Play it here: https://gutier.itch.io/internet-guardians || https://gamejolt.com/games/internetguardians/637967
@@ -43,6 +44,7 @@ As an addition, Unity's localization tool has been used to add language support 
 Public release is planned in the future.
 
     Engine: Unity
+    Development time and period: 1 week - August 2022
     Contribution: Programming, Design, UI, Translation
 
 ### <p align=center>VR Rollercoaster
@@ -52,11 +54,12 @@ Public release is planned in the future.
 A VR experience done in collaboration with Realidad Virtual Honduras for the CABEI (Central American Bank for Economic Integration) -or BCIE (Banco Centroamericano de Integración Económica) in Spanish-. The experience features a rollercoaster with 6 stations, each representing a diorama of the projects done by the CABEI throughout each of the Central American countries, including relevant data on these projects.
 
     Engine: Unity
-    Contribution: Blocking, Programming, Design
+    Development time and period: 1 month - September 2022
+    Contribution: Blocking/blockout, Programming, Design
 
 --------------------------
 ## <p align=center>Work in Progress
-### <p align=center>Untitled Owl Game
+### <p align=center>Owl Game (WIP name)
 
 [![Watch the video](https://img.youtube.com/vi/OS6xDnV0QVA/maxresdefault.jpg)](https://youtu.be/OS6xDnV0QVA)
 
@@ -65,6 +68,7 @@ This game aims to be launched in PC and consoles. The game will feature a campai
 [![Watch the video](https://img.youtube.com/vi/G3LQ4F9yeL0/maxresdefault.jpg)](https://youtu.be/G3LQ4F9yeL0)
 
     Engine: Unity
+    Development time and period: In development since April 2022
     Contribution: all
 
 --------------------------
