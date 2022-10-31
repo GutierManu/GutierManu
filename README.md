@@ -29,7 +29,7 @@ Made for the #OperaGXGameJam held in Game Jolt with “UFOs and the Internet” 
     Development time and period: 2 weeks - August 2021
     Contribution: all
 
-Play it here: https://gutier.itch.io/internet-guardians || https://gamejolt.com/games/internetguardians/637967
+Play it here: https://gutier.itch.io/internet-guardians | https://gamejolt.com/games/internetguardians/637967
 
 --------------------------
 ## <p align=center>XR (AR/VR)
@@ -79,6 +79,25 @@ This game aims to be launched in PC and consoles. The game will feature a campai
 
 These projects were done for learning purposes. While the design and mechanics are simple, the aim is to understand the topics studied throughout the pathway.
 
-Unity profile: https://learn.unity.com/u/manugutier
-
+Unity profile (with prototypes): https://learn.unity.com/u/manugutier |
 Certified badge: https://www.credly.com/badges/e29487e5-bd85-4305-8ca0-d99342828614/public_url
+
+### <p align=center>2D Strategy Prototype
+
+[![Watch the video](https://img.youtube.com/vi/KqAdgOjmlNc/maxresdefault.jpg)](https://youtu.be/KqAdgOjmlNc)
+
+A prototype featuring a multiplayer turn-based strategy game. This prototype was made along the course "The Ultimate Guide to making a 2D strategy game in Unity" by Blackthornprod. Some remarkable implementations in this project are the barracks system, unit/stats system (each class having unique stats), the turned based combat system, animations, sound effects and illustrations.
+
+    Engine: Unity
+    Development time and period: 2 months - January 2021 to February 2021
+    Contribution: all
+
+### <p align=center>Introdos D
+
+[![Watch the video](https://img.youtube.com/vi/FHEM14KuGVg/maxresdefault.jpg)](https://youtu.be/FHEM14KuGVg)
+
+Made along the course "Introduction to Unity for 2D Videogames" by Juan Diego Vázquez Moreno in Domestika, this prototype implements Platformer and 2D Hack and Slash mechanics. This is the very first prototype I created in my game development path, and learnt many of the fundamental principles by working on it.
+
+    Engine: Unity
+    Development time and period: 3 months - November 2019 to January 2020
+    Contribution: all
