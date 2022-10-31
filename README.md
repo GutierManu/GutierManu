@@ -100,4 +100,4 @@ Made along the course "Introduction to Unity for 2D Videogames" by Juan Diego VÃ
 
     Engine: Unity
     Development time and period: 3 months - November 2019 to January 2020
-    Contribution: all
+    Contribution: Programming, Design, Animations
