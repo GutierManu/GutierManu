@@ -33,6 +33,16 @@ Play it here: https://gutier.itch.io/internet-guardians | https://gamejolt.com/g
 
 --------------------------
 ## <p align=center>XR (AR/VR)
+### <p align=center>VR Rollercoaster (Advergame for the CABEI) - Realidad Virtual Honduras
+
+[![Watch the video](https://user-images.githubusercontent.com/89094000/198506478-06c4411a-fa19-4091-aeb7-22f3573a5549.png)](https://www.linkedin.com/posts/realidad-virtual-honduras_proyecto-bcie-vr-activity-6986455961334902785-_EOO?utm_source=share&utm_medium=member_desktop)
+
+A VR experience done in collaboration with Realidad Virtual Honduras for the CABEI (Central American Bank for Economic Integration) -or BCIE (Banco Centroamericano de Integración Económica) in Spanish-. The experience features a rollercoaster with 6 stations, each representing a diorama of the projects done by the CABEI in each of the Central American countries, including relevant data on these projects.
+
+    Engine: Unity
+    Development time and period: 1 month - September 2022
+    Contribution: Blocking/blockout, Programming, Design
+
 ### <p align=center>AR Portal
 
 [![Watch the video](https://img.youtube.com/vi/CleX8_8_PDM/maxresdefault.jpg)](https://youtu.be/CleX8_8_PDM)
@@ -46,16 +56,6 @@ Public release is planned in the future.
     Engine: Unity
     Development time and period: 1 week - August 2022
     Contribution: Programming, Design, UI, Translation
-
-### <p align=center>VR Rollercoaster
-
-[![Watch the video](https://user-images.githubusercontent.com/89094000/198506478-06c4411a-fa19-4091-aeb7-22f3573a5549.png)](https://www.linkedin.com/posts/realidad-virtual-honduras_proyecto-bcie-vr-activity-6986455961334902785-_EOO?utm_source=share&utm_medium=member_desktop)
-
-A VR experience done in collaboration with Realidad Virtual Honduras for the CABEI (Central American Bank for Economic Integration) -or BCIE (Banco Centroamericano de Integración Económica) in Spanish-. The experience features a rollercoaster with 6 stations, each representing a diorama of the projects done by the CABEI throughout each of the Central American countries, including relevant data on these projects.
-
-    Engine: Unity
-    Development time and period: 1 month - September 2022
-    Contribution: Blocking/blockout, Programming, Design
 
 --------------------------
 ## <p align=center>Work in Progress
