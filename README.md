@@ -99,5 +99,5 @@ A prototype featuring a multiplayer turn-based strategy game. This prototype was
 Made along the course "Introduction to Unity for 2D Videogames" by Juan Diego Vázquez Moreno in Domestika, this prototype implements Platformer and 2D Hack and Slash mechanics. This is the very first prototype I created in my game development path, and learnt many of the fundamental principles by working on it.
 
     Engine: Unity
-    Development time and period: 3 months - November 2019 to January 2020
+    Development time and period: 6 months - February 2020 to July 2020
     Contribution: Programming, Design, Animations
