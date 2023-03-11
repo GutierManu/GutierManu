@@ -34,7 +34,7 @@ Play it here: https://gutier.itch.io/internet-guardians | https://gamejolt.com/g
 --------------------------
 ## <p align=center>XR (AR/VR)        
 ### <p align=center>Honduras Ancestral - Realidad Virtual Honduras
-    [![Watch the video](https://user-images.githubusercontent.com/89094000/224504296-c8bf4c1a-4ee6-4483-af56-6539e693b2f9.jpeg)](https://www.linkedin.com/feed/update/urn:li:activity:7040070646256521216/)
+[![Watch the video](https://user-images.githubusercontent.com/89094000/224504296-c8bf4c1a-4ee6-4483-af56-6539e693b2f9.jpeg)](https://www.linkedin.com/feed/update/urn:li:activity:7040070646256521216/)
 
 "Honduras Ancestral" is an Augmented Reality application comissioned by CANATURH in Honduras. The app allows users to explore the history and culture of Honduras in a unique and exciting way.
 
@@ -91,6 +91,9 @@ This game aims to be launched in PC and consoles. The game will feature a campai
 This is a prototype for a character customization screen. The whole functionality can be reused and adapted to different 2D projects where characters or objects may require customization.
 
 While this is just a prototype for now, it has a lot of potential for many exciting projects! Imagine being able to offer players even more options for customization in future projects, helping them to connect with their avatars and get even more immersed in the game world.
+    
+    Engine: Unity
+    Contribution: all
     
 ### <p align=center>Unity Junior Programmer Pathway
 
