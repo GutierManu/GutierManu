@@ -32,7 +32,19 @@ Made for the #OperaGXGameJam held in Game Jolt with “UFOs and the Internet” 
 Play it here: https://gutier.itch.io/internet-guardians | https://gamejolt.com/games/internetguardians/637967
 
 --------------------------
-## <p align=center>XR (AR/VR)
+## <p align=center>XR (AR/VR)        
+### <p align=center>Honduras Ancestral - Realidad Virtual Honduras
+    [![Watch the video](https://user-images.githubusercontent.com/89094000/224504296-c8bf4c1a-4ee6-4483-af56-6539e693b2f9.jpeg)](https://www.linkedin.com/feed/update/urn:li:activity:7040070646256521216/)
+
+"Honduras Ancestral" is an Augmented Reality application comissioned by CANATURH in Honduras. The app allows users to explore the history and culture of Honduras in a unique and exciting way.
+
+The app focuses on two historical tourist sites in Honduras: the Ruins of Copan and the Fortress of San Fernando in Omoa. By using image markers at these sites, users can bring to life historical characters and monuments from the culture of these places and capture unique memories through photos and videos.
+    
+The goal of Honduras Ancestral is to inspire users to deepen their knowledge and appreciation for the cultural heritage of Honduras and Central America.
+    
+    Engine: Unity
+    Contribution: AR functionality, UI functionality, AR interaction prototyping, Programming
+    
 ### <p align=center>VR Rollercoaster (Advergame for the CABEI) - Realidad Virtual Honduras
 
 [![Watch the video](https://user-images.githubusercontent.com/89094000/198506478-06c4411a-fa19-4091-aeb7-22f3573a5549.png)](https://www.linkedin.com/posts/realidad-virtual-honduras_proyecto-bcie-vr-activity-6986455961334902785-_EOO?utm_source=share&utm_medium=member_desktop)
@@ -73,6 +85,13 @@ This game aims to be launched in PC and consoles. The game will feature a campai
 
 --------------------------
 ## <p align=center>Prototypes
+### <p align=center>Character Customization
+[![Watch the video](https://img.youtube.com/vi/uaw7ap6sOME/maxresdefault.jpg)](https://youtu.be/uaw7ap6sOME)
+    
+This is a prototype for a character customization screen. The whole functionality can be reused and adapted to different 2D projects where characters or objects may require customization.
+
+While this is just a prototype for now, it has a lot of potential for many exciting projects! Imagine being able to offer players even more options for customization in future projects, helping them to connect with their avatars and get even more immersed in the game world.
+    
 ### <p align=center>Unity Junior Programmer Pathway
 
 [![unity-junior-programmer](https://user-images.githubusercontent.com/89094000/198504459-3e206eed-8f33-4704-a7c0-12c6902d9fa5.png)](https://learn.unity.com/pathway/junior-programmer)
