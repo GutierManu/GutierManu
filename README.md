@@ -29,7 +29,7 @@ Contact information:
 My portfolio is organized into three categories: XR (AR/VR), 2D, and 3D. Each game/app is labeled with one of three statuses:
 
 - Published: The game/app has been published on a determined platform or delivered directly to the client.
-- Prototype: The project has some functionality that can be used in future projects or was created for learning purposes. Full development might or might not 
+- Prototype: The project has some functionality that can be used in future projects or was created for learning purposes.
 - Work in progress: The project is currently being developed and is planned for release in the future. </p>
 
 In addition to the project status, each entry will specify the game engine used for its development, whether it was a collaborative or independent effort, my role/contribution, and the period for its release.
@@ -195,6 +195,8 @@ Created for the #OperaGXGameJam held in Game Jolt, this game was designed around
     Period: November 2021
 
 </details>
+
+--------------------------
 
 <details>
 <summary><h2>Certifications and skills</h2></summary></h2>
