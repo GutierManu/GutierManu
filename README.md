@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">MANUEL GUTIÉRREZ'S PORTFOLIO</h1>
 
+![Gamejolt Profile Banner](https://user-images.githubusercontent.com/89094000/224618817-b6034161-aafe-46d4-bd9b-26e75057c7da.png)
+
 <p> Welcome to my portfolio! I am a software developer with expertise in game and app development for PC and mobile devices. I specialize in 2D and AR projects, and also have experience with VR and 3D development. Explore my portfolio to see examples of my work and feel free to contact me for any inquiries.</p>
 
 Contact information:
@@ -33,6 +35,8 @@ My portfolio is organized into three categories: XR (AR/VR), 2D, and 3D. Each ga
 - Work in progress: The project is currently being developed and is planned for release in the future. </p>
 
 In addition to the project status, each entry will specify the game engine used for its development, whether it was a collaborative or independent effort, my role/contribution, and the period for its release.
+
+You may click/tap on the project's images to be redirected to a demo.
 </details>
 
 --------------------------
