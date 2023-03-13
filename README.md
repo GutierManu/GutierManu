@@ -28,7 +28,7 @@ Contact information:
 <details>
 <summary><h2>About this portfolio</h2></summary>
 
-My portfolio is organized into three categories: XR (AR/VR), 2D, and 3D. Each game/app is labeled with one of three statuses:
+My portfolio is organized into four categories: XR (AR/VR), 2D, 3D and miscellaneous projects. Each game/app is labeled with one of three statuses:
 
 - Published: The game/app has been published on a determined platform or delivered directly to the client.
 - Prototype: The project has some functionality that can be used in future projects or was created for learning purposes.
@@ -197,6 +197,30 @@ Created for the #OperaGXGameJam held in Game Jolt, this game was designed around
     Project type: independent
     Contribution: Programming, Design
     Period: November 2021
+
+</details>
+
+<details>
+<summary><h2>Miscellaneous projects</h2></summary></h2>
+
+<h2 align="center">Boo — Dating. Friends. Chat.</h2>
+
+![Boo — Dating. Friends. Chat.](https://user-images.githubusercontent.com/89094000/224623479-2cd5aa5f-5767-4362-a0ee-dd61689ce931.jpeg)
+
+<p>Boo is a mobile app that uses the Myers-Briggs Type Indicator (MBTI) and other psychology elements to match its users around the world.
+
+In the development of the app, my role was as a Translator and Proofreader. Specifically, I was responsible for translating and proofreading the English content into Spanish and French, ensuring that each string was accurately localized to meet the standards of the target language. In total, I contributed 21,035 translated words and 22,353 words in the target languages.
+
+- Website: https://boo.world/
+- Play Store: https://play.google.com/store/apps/details?id=enterprises.dating.boo&hl=en&gl=US
+- App Store: https://apps.apple.com/us/app/boo-dating-friends-chat/id1498407272
+</p>
+
+    Status: Published
+    Engine: Crowdin
+    Project type: collaborative
+    Contribution: Translation
+    Period: October 2021
 
 </details>
 
