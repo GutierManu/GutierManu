@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![Gamejolt Profile Banner](https://user-images.githubusercontent.com/89094000/224618817-b6034161-aafe-46d4-bd9b-26e75057c7da.png)
 
+<div align="center"><a href="README.es.md">Versión en español</a> | <a href="README.fr.md">Version française</a></div>
+
 <p> Welcome to my portfolio! I am a software developer with expertise in game and app development for PC and mobile devices. I specialize in 2D and AR projects, and also have experience with VR and 3D development. Explore my portfolio to see examples of my work and feel free to contact me for any inquiries.</p>
 
 Contact information:
